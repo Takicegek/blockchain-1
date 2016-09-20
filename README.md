@@ -1,4 +1,5 @@
 # Blockchain
+🆘 this is still under heavy development and probably wont work just yet [but that doesn't mean you can't help](#contributions--suggestions)! 🆘
 <!-- coming soon! [![CircleCI](https://circleci.com/gh/anthcor/blockchain.svg?style=svg)](https://circleci.com/gh/anthcor/blockchain) -->
 Golang blockchain implementation using [Minimum Viable Blockchain](https://artsec.hackpad.com/Blockchains-and-Bitcoins-mR2wlQ4KbVQ).
 
